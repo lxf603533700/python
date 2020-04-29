@@ -1,2 +1,2 @@
 # python
-Python study notes
+the notes of learning python
